@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning CLOUD ARCHITECT
 - 💞️ I’m looking to collaborate on PROJECT
-- 📫 How to reach me DM
+- 📫 How to reach me DM ON LINKEDIN
 
 <!---
 fustinaorazu/fustinaorazu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
